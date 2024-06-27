@@ -1,12 +1,12 @@
-commit QmTMD8EKpJWLbHAy6t1NHPXN3XCseHQzHzswx5SqzcZCvS
+commit QmdjTFtD5D32UBsth87ZmjDwU3dbjMWHto8E9SXVkiNqo8
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: cbd07fc1904ec21ba5a47a2ccdffcbe4e94f6c9758c543a2e2fcbd2cdf3bffcb23d1679cce5e681e9a645b061f6536cbb98da5f330f402e30b6a63b99315c10400
+Signature: 593df690cfe597ad86d2386d8465239963b03dfa4942396169626a64b4581a6c3301992fc775a5e5fea7999a49a5aa337025406a3baf7200ab2d78c63b05802801
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmdVNwrMi3znLMcfwH7tvxBx4JnZjT6eikS7qWqwFE6F1K
-Commit CID if containing only file hashes: QmZaH4zDR11FcFjY6eQytFSRzSVyojvv36CayivAiCYFU9
+Commit CID if including git's SHA1: QmSG4uUYa6B1EAvJTnU3JrxGFgKzgkpbn4A2LV6bh8D3gB
+Commit CID if containing only file hashes: QmeXwTFDXdC5nNo5dFUX96VJ85Xc39UcGekqBwacHNY2cS
 
 ------------------------------
 
@@ -19,33 +19,25 @@ Remote URL:
 
 chown -h 1000:1000 'asset-manifest.json'
 chmod 0664 'asset-manifest.json'
-/usr/bin/touch -hcmd "2024-06-15 17:55:35.5244553000 -0300" 'asset-manifest.json'
-/usr/bin/touch -hcad "2024-06-15 18:14:50.1352744000 -0300" 'asset-manifest.json'
-chown -h 1000:1000 'img/creatures/handdrawn/2023/Nyaqua.jpeg'
-chmod 0664 'img/creatures/handdrawn/2023/Nyaqua.jpeg'
-/usr/bin/touch -hcmd "2024-06-15 17:55:00.8683002000 -0300" 'img/creatures/handdrawn/2023/Nyaqua.jpeg'
-/usr/bin/touch -hcad "2024-06-15 18:15:49.4284550000 -0300" 'img/creatures/handdrawn/2023/Nyaqua.jpeg'
-chown -h 1000:1000 'img/ui/orb-supply.svg'
-chmod 0664 'img/ui/orb-supply.svg'
-/usr/bin/touch -hcmd "2024-06-15 17:55:04.4723063000 -0300" 'img/ui/orb-supply.svg'
-/usr/bin/touch -hcad "2024-06-15 18:15:49.4364552000 -0300" 'img/ui/orb-supply.svg'
-chown -h 1000:1000 'img/ui/orb-supply.svg.weborigin'
-chmod 0664 'img/ui/orb-supply.svg.weborigin'
-/usr/bin/touch -hcmd "2024-06-15 17:55:04.4733063000 -0300" 'img/ui/orb-supply.svg.weborigin'
-/usr/bin/touch -hcad "2024-06-15 18:15:49.4364552000 -0300" 'img/ui/orb-supply.svg.weborigin'
+/usr/bin/touch -hcmd "2024-06-27 02:36:31.3930016000 -0300" 'asset-manifest.json'
+/usr/bin/touch -hcad "2024-06-27 02:37:42.9233759000 -0300" 'asset-manifest.json'
+chown -h 1000:1000 'img/creatures/handdrawn/2024/Capnccino.jpeg'
+chmod 0664 'img/creatures/handdrawn/2024/Capnccino.jpeg'
+/usr/bin/touch -hcmd "2024-06-27 02:35:46.7963917000 -0300" 'img/creatures/handdrawn/2024/Capnccino.jpeg'
+/usr/bin/touch -hcad "2024-06-27 02:38:02.1822074000 -0300" 'img/creatures/handdrawn/2024/Capnccino.jpeg'
 chown -h 1000:1000 'index.html'
 chmod 0664 'index.html'
-/usr/bin/touch -hcmd "2024-06-15 17:55:35.5244553000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-06-15 18:15:49.4204548000 -0300" 'index.html'
-chown -h 1000:1000 'static/js/main.3077ba76.js'
-chmod 0664 'static/js/main.3077ba76.js'
-/usr/bin/touch -hcmd "2024-06-15 17:55:35.5404554000 -0300" 'static/js/main.3077ba76.js'
-/usr/bin/touch -hcad "2024-06-15 18:15:49.4574556000 -0300" 'static/js/main.3077ba76.js'
-chown -h 1000:1000 'static/js/main.3077ba76.js.LICENSE.txt'
-chmod 0664 'static/js/main.3077ba76.js.LICENSE.txt'
-/usr/bin/touch -hcmd "2024-06-15 17:55:35.5384554000 -0300" 'static/js/main.3077ba76.js.LICENSE.txt'
-/usr/bin/touch -hcad "2024-06-15 18:15:49.4764560000 -0300" 'static/js/main.3077ba76.js.LICENSE.txt'
-chown -h 1000:1000 'static/js/main.3077ba76.js.map'
-chmod 0664 'static/js/main.3077ba76.js.map'
-/usr/bin/touch -hcmd "2024-06-15 17:55:35.5424554000 -0300" 'static/js/main.3077ba76.js.map'
-/usr/bin/touch -hcad "2024-06-15 18:15:49.4764560000 -0300" 'static/js/main.3077ba76.js.map'
+/usr/bin/touch -hcmd "2024-06-27 02:36:31.3930016000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-06-27 02:38:02.1652076000 -0300" 'index.html'
+chown -h 1000:1000 'static/js/main.a740839b.js'
+chmod 0664 'static/js/main.a740839b.js'
+/usr/bin/touch -hcmd "2024-06-27 02:36:31.4460011000 -0300" 'static/js/main.a740839b.js'
+/usr/bin/touch -hcad "2024-06-27 02:38:02.1942073000 -0300" 'static/js/main.a740839b.js'
+chown -h 1000:1000 'static/js/main.a740839b.js.LICENSE.txt'
+chmod 0664 'static/js/main.a740839b.js.LICENSE.txt'
+/usr/bin/touch -hcmd "2024-06-27 02:36:31.4460011000 -0300" 'static/js/main.a740839b.js.LICENSE.txt'
+/usr/bin/touch -hcad "2024-06-27 02:38:02.2232071000 -0300" 'static/js/main.a740839b.js.LICENSE.txt'
+chown -h 1000:1000 'static/js/main.a740839b.js.map'
+chmod 0664 'static/js/main.a740839b.js.map'
+/usr/bin/touch -hcmd "2024-06-27 02:36:31.4470011000 -0300" 'static/js/main.a740839b.js.map'
+/usr/bin/touch -hcad "2024-06-27 02:38:02.2232071000 -0300" 'static/js/main.a740839b.js.map'
